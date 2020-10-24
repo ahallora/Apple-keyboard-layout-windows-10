@@ -20,4 +20,6 @@ https://www.youtube.com/watch?v=pE1Z29oJ_Ko&ab_channel=FilipeCruz
 
 4) Reboot
 
-5) Enjoy :smile: 
+5) Change the keyboard layout in your `Language preferences` in Windows 10
+
+6) Enjoy :smile: 
