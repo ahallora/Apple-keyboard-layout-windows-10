@@ -1,4 +1,4 @@
-# Apple Magic Key Keyboard layout for Windows 10
+# Apple Magic Keyboard layout for Windows 10
 Remapping of the Apple Magic Keyboard to work with Windows 10
 
 I have a Apple Magic Keyboard that I want to use with my Windows 10 computer while maintaining the same keyboard layout I'm using on my Macbook. This is the closest I can get. Thought I would share... :) 
