@@ -8,15 +8,11 @@ I have a Apple Magic Keyboard that I want to use with my Windows 10 computer whi
 
 ## How to get started
 
-1) Download the Keyboard Layout Creator from Microsoft
-This is the keyboard source file for the Keyboard Layout Creator that can be downloaded here:
-https://www.microsoft.com/en-us/download/details.aspx?id=102134
+1) Download the Keyboard Layout Creator from Microsoft https://www.microsoft.com/en-us/download/details.aspx?id=102134
 
-2) Watch this video
-@FilipeCruz's video will help you on your way:
-https://www.youtube.com/watch?v=pE1Z29oJ_Ko&ab_channel=FilipeCruz
+2) Watch @FilipeCruz's video will help you on your way: https://www.youtube.com/watch?v=pE1Z29oJ_Ko&ab_channel=FilipeCruz
 
-3) Download the source file from this repo, load it and install it
+3) Download the keyboard layout file from this repo, load it and install it
 
 4) Reboot
 
